@@ -7,6 +7,15 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily:{
+        inconsolata: ['Inconsolata', 'monospace'],
+        oswald: ['Oswald', 'sans-serif'],
+        ubuntu:['Ubuntu', 'sans-serif'],
+        poppins:['Poppins', 'sans-serif'],
+      },
+      colors: {
+        palette_grey:'#222831'
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
