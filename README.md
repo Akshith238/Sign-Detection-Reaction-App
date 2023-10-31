@@ -29,7 +29,8 @@ The Sign Language Recognition and Authentication project is an innovative soluti
 2. **Install Dependencies:**
    ```bash
    npm install
-3.**Start the Development Server:**
+3. **Start the Development Server:**
    ```bash
    npm run dev
-
+4. **Access the Application:**
+   Open your web browser and navigate to http://localhost:3000 to view and interact with your Next.js application running locally.
